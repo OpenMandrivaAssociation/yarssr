@@ -1,7 +1,7 @@
 Summary:	An unobtrusive RSS Aggregator
 Name:		yarssr
 Version:	0.2.2
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		Networking/News
 License:	GPL
 URL:		http://yarssr.sourceforge.net/
