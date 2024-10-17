@@ -4,7 +4,7 @@ Version:	0.2.2
 Release:	8
 Group:		Networking/News
 License:	GPL
-URL:		http://yarssr.sourceforge.net/
+URL:		https://yarssr.sourceforge.net/
 Source:		http://osdn.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/root-%{name}-%{version}
 BuildRequires:	coreutils, gettext
